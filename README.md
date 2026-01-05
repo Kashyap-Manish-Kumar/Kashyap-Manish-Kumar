@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Manish Kashyap</h1>
-<h2 align="center">JAVA Backend Devloper | MEAN Stack Junior Devloper</h2>
+<h3 align="center">SpringBoot Devloper</h3>
 <h3 align="center">Computer Science Graduate | AI & Backend Enthusiast</h3>
 
 <h1 align="center">Connect Me</h1>
